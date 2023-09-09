@@ -34,7 +34,8 @@ This is a Python application that converts PDF files into audio files (MP3 forma
 ## Directory Structure
 
 - `pdf_to_audio.py`: The main Python script.
-- do not worry about belows if you do not have any, then they will be created automatically
+  
+  Do not worry about the following items; if you don't have them, they will be created automatically
 - `uploaded_pdf/`: Directory where the selected PDF is temporarily stored.do not worry if you do not have any then they will be created automatically
 - `audios/`: Directory where the converted audio file is saved.
 
