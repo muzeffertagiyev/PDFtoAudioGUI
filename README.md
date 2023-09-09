@@ -1,4 +1,4 @@
-```markdown
+
 # PDF to Audio Converter
 
 This is a Python application that converts PDF files into audio files (MP3 format). It utilizes the PyPDF2 library to extract text from PDFs and the gTTS library to convert text to speech.
