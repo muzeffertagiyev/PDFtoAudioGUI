@@ -89,7 +89,7 @@ def download_audio():
     try:
         audio_path = os.path.join('audios', 'audio.mp3')
         shutil.copy(audio_path, download_path)
-        msgb.showinfo("Success", "Image downloaded successfully!")
+        msgb.showinfo("Success", "Audio downloaded successfully!")
     except Exception as e:
         msgb.showerror("Error", f"Failed to download audio: {e}")
 
