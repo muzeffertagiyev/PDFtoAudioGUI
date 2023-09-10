@@ -28,7 +28,7 @@ def create_directory_if_not_exists(directory_path):
         os.makedirs(directory_path)
 
 def close_the_app():
-    if msgb.askokcancel("Quit", "Do you want to close the app? Make sure that you downloaded the Watermarked Image"):
+    if msgb.askokcancel("Quit", "Do you want to close the app? Make sure that you downloaded the Audio"):
         root.destroy()
 
 def select_pdf():
