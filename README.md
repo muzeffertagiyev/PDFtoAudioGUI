@@ -3,6 +3,15 @@
 
 This is a Python application that converts PDF files into audio files (MP3 format). It utilizes the PyPDF2 library to extract text from PDFs and the gTTS library to convert text to speech.(Please make be aware that the play button in the app will only be able to work for Mac OS )
 
+
+## Demo Video
+
+
+
+https://github.com/user-attachments/assets/4de3181f-b644-42f6-a894-a6a2eb2548c9
+
+
+
 ## How to Use
 
 1. Clone or download this repository to your local machine.
